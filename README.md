@@ -1,2 +1,3 @@
-# Merck_Challenge_DL_Interpretability
-Construction and analysis of interpretable deep learning models
+# Merck Co-Op Spring 2024
+
+Code repository for deep learning interpretability project. 
